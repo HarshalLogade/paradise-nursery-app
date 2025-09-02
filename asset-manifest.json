@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HarshalLogade/paradise-nursery-app.git/static/css/main.10858adc.css",
+    "main.js": "/HarshalLogade/paradise-nursery-app.git/static/js/main.41888297.js",
+    "index.html": "/HarshalLogade/paradise-nursery-app.git/index.html",
+    "main.10858adc.css.map": "/HarshalLogade/paradise-nursery-app.git/static/css/main.10858adc.css.map",
+    "main.41888297.js.map": "/HarshalLogade/paradise-nursery-app.git/static/js/main.41888297.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10858adc.css",
+    "static/js/main.41888297.js"
+  ]
+}
